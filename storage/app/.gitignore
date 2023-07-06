@@ -1,0 +1,6 @@
+*
+!public/
+!CallbackData/
+!exports/
+!singleinterface/
+!.gitignore
